@@ -1,0 +1,195 @@
+/* OBX Family Guide
+   Mobile-first, high-contrast, print-aware. Coastal palette. */
+
+:root {
+  --ink:        #1c2b33;
+  --ink-soft:   #55707d;
+  --sea:        #1d6f8b;
+  --sea-deep:   #14505f;
+  --sand:       #fbf8f1;
+  --sand-edge:  #e8e0cf;
+  --coral:      #c8553d;
+  --rule:       #dfe6e9;
+  --card:       #ffffff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0 auto;
+  padding: 1.5rem 1.15rem 4rem;
+  max-width: 46rem;
+  background: var(--sand);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* ---------- Headings ---------- */
+h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 0 0 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 4px solid var(--sea);
+  color: var(--sea-deep);
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin: 2.75rem 0 0.9rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  color: var(--sea-deep);
+  letter-spacing: -0.005em;
+  scroll-margin-top: 1rem;
+}
+
+h3 {
+  font-size: 1.08rem;
+  margin: 1.75rem 0 0.5rem;
+  color: var(--coral);
+}
+
+h4 { font-size: 1rem; margin: 1.25rem 0 0.4rem; color: var(--ink-soft); }
+
+/* ---------- Text ---------- */
+p { margin: 0.75rem 0; }
+strong { color: var(--sea-deep); font-weight: 650; }
+em { color: var(--ink-soft); }
+
+a {
+  color: var(--sea);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(29, 111, 139, 0.32);
+  overflow-wrap: break-word;
+}
+a:hover, a:active { color: var(--coral); border-bottom-color: var(--coral); }
+
+/* Blockquotes — used for the "read this" callouts */
+blockquote {
+  margin: 1.25rem 0;
+  padding: 0.85rem 1.1rem;
+  background: var(--card);
+  border-left: 4px solid var(--coral);
+  border-radius: 0 6px 6px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+blockquote p:first-child { margin-top: 0; }
+blockquote p:last-child { margin-bottom: 0; }
+
+/* ---------- Lists ---------- */
+ul, ol { padding-left: 1.35rem; margin: 0.75rem 0; }
+li { margin: 0.4rem 0; }
+li > ul, li > ol { margin: 0.3rem 0; }
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.92rem;
+  background: var(--card);
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  display: block;
+  overflow-x: auto;       /* tables scroll instead of breaking the phone layout */
+  white-space: normal;
+}
+th {
+  background: var(--sea-deep);
+  color: #fff;
+  text-align: left;
+  padding: 0.6rem 0.7rem;
+  font-weight: 600;
+}
+td {
+  padding: 0.6rem 0.7rem;
+  border-top: 1px solid var(--rule);
+  vertical-align: top;
+}
+tr:nth-child(even) td { background: #fafcfd; }
+
+/* ---------- Images ---------- */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.25rem auto;
+  border-radius: 8px;
+  border: 1px solid var(--sand-edge);
+  background: #fff;
+}
+
+/* ---------- Table of contents ---------- */
+nav#TOC {
+  background: var(--card);
+  border: 1px solid var(--sand-edge);
+  border-radius: 8px;
+  padding: 1rem 1.15rem;
+  margin: 0 0 2rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+nav#TOC::before {
+  content: "Contents";
+  display: block;
+  font-weight: 700;
+  color: var(--sea-deep);
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+nav#TOC ul { list-style: none; padding-left: 0; margin: 0; }
+nav#TOC ul ul { display: none; }        /* keep the TOC to top-level only */
+nav#TOC li { margin: 0.3rem 0; }
+nav#TOC a { border-bottom: none; font-size: 0.95rem; }
+
+/* ---------- Rules & footer ---------- */
+hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+
+footer .meta {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  text-align: center;
+}
+
+code {
+  background: #eef3f5;
+  padding: 0.12em 0.4em;
+  border-radius: 4px;
+  font-size: 0.88em;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+/* ---------- Print / PDF ---------- */
+@media print {
+  body {
+    background: #fff;
+    max-width: none;
+    font-size: 10.5pt;
+    padding: 0;
+  }
+  nav#TOC { break-after: page; box-shadow: none; }
+  h2 { break-before: auto; break-after: avoid; }
+  h3, h4 { break-after: avoid; }
+  table, blockquote, img, figure { break-inside: avoid; }
+  a { color: var(--sea-deep); border-bottom: none; }
+  /* Print the URL after external links so the PDF is useful offline */
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.72em;
+    color: #7b8f99;
+    word-break: break-all;
+  }
+  tr:nth-child(even) td { background: #f7f9fa; }
+}
+
+@page {
+  size: letter;
+  margin: 0.7in 0.65in;
+}
