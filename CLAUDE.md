@@ -136,9 +136,10 @@ Never commit anything into `site/` or `dist/`; they are generated.
 ## OPEN / RECURRING ITEMS
 
 - [ ] Confirm the exact check-in date with the rental company (the quoted start date is a Friday; we arrive Saturday).
-- [ ] "Things to do along the way" section — **not yet written.** Note: **Tamarack Marketplace
-      (Beckley, WV) is NOT on the chosen route** — it's on I-77, the rejected WV route, ~2+ hrs off.
-      Any stops must be on the I-70 → US-522 → I-81 → I-64 → US-17 → US-64 corridor.
+- [x] "Things to do along the way" section — **written** (§4). Stops are all on the
+      I-70 → US-522 → I-81 → I-64 → US-17 → US-64 corridor. Note: **Tamarack Marketplace
+      (Beckley, WV) is NOT on the chosen route** — it's on I-77, the rejected WV route, ~2+ hrs off,
+      and the section says so explicitly.
 - [ ] Restaurant hours and large-party policies shift in summer — **confirm by phone**, never assert.
 - [ ] Pre-order blue crabs from **Billy's Seafood** (252-441-5978) a day ahead.
       **O'Neal's Sea Harvest** (Wanchese) is **closed Sundays**.
