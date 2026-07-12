@@ -15,7 +15,7 @@
 
 Our rental sits **oceanfront at Milepost 8**, on the Beach Road (Virginia Dare Trail) in **central Kill Devil Hills**.
 
-*(This guide is public — the street address, the property name, and door codes are deliberately kept out of it. Everyone in the group already has those from the the rental company confirmation.)*
+*(This guide is public — the street address, the property name, and door codes are deliberately kept out of it. Everyone in the group already has those from the rental company confirmation.)*
 
 - **Milepost 8 is the sweet spot** — the most convenient stretch on the Outer Banks for reaching everything north (Kitty Hawk, Duck, Corolla) and south (Nags Head, Manteo, Bodie Island, Hatteras).
 - Private pool, hot tub, an **elevator** (helpful for grandparents and hauling gear), and a **private walkway straight to the beach** — no road to cross.
@@ -208,7 +208,7 @@ Between Columbia and Manns Harbor, US-64 crosses the **Lindsay C. Warren (Alliga
 
 ### 🍽️ You'll arrive well before check-in — plan for it
 
-Check-in is **4–6 PM**, and there's **no early check-in for a 10-BR home.** Arriving late morning means **4–5 hours to fill.** Treat that as a feature:
+Check-in is **4–6 PM**, and **there's no early check-in for a house this size.** Arriving late morning means **4–5 hours to fill.** Treat that as a feature:
 
 - **Knock out the big grocery run** (Harris Teeter / Walmart Kitty Hawk) before the house is even ready.
 - **Stop at Billy's Seafood** on Colington Rd — call ahead and have the blue crabs waiting.
@@ -336,7 +336,7 @@ These three come recommended by the rental company. All are calm-water sound tri
 - **OBX Tiki Time** — **Manteo Marina.** Custom pontoon with Captain Randy Graham; dolphin tours, sunset cruises, private charters — and **crabbing adventures**, which is a nice guided alternative if you'd rather not rig up chicken-necking yourselves. Relaxed, personal; better suited to **smaller groups**.
 - **[Nags Head Dolphin Watch](https://www.kittyhawk.com/adventures/dolphin-tours/)** (Kitty Hawk Kites) — **Manteo Marina.** **Naturalist-led and eco-focused** — dolphin behavior, local wildlife, coastal ecology. The pick if you want the kids to actually *learn* something.
 
-*A private charter is often the sane move for a group your size — ask each operator about capacity, since a 10-BR house can easily exceed a public trip's spare seats.*
+*A private charter is often the sane move for a group your size — ask each operator about capacity; a big group can easily exceed a public trip's spare seats.*
 
 ---
 
@@ -436,7 +436,7 @@ The **sound is warmer, calmer, and shallower** than the ocean — ideal for litt
 
 ## 14. Dining & reservations
 
-With a 10-bedroom house and multiple kitchens, your best "big night" moves are often **at the house** — no wait, everyone together, and the grandparents aren't chasing toddlers around a packed dining room. **Peak-summer reality:** many OBX spots take few or no reservations and cap large parties, so call ahead a day or two for **8+**, aim for early (5:00–5:30) seatings, or split into two tables.
+With a big house and multiple kitchens, your best "big night" moves are often **at the house** — no wait, everyone together, and the grandparents aren't chasing toddlers around a packed dining room. **Peak-summer reality:** many OBX spots take few or no reservations and cap large parties, so call ahead a day or two for **8+**, aim for early (5:00–5:30) seatings, or split into two tables.
 
 ### Feed the whole group at the house (easiest for 15+)
 - **[Firehouse Boil](https://www.obxshrimpboil.com/)** (Kill Devil Hills) — delivers a Low Country boil to your rental, **lends the pot and propane burner**, and walks you through simple instructions; sizes **5–150 people**, same-day delivery, plus a **private-chef on-site** option. **252-501-2645.**
@@ -584,11 +584,10 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 - 🦀 Crabbing needs **no license** (chicken-necking); surf/sound rod fishing 16+ needs the **CRFL**.
 - 🦞 **Pre-order crabs/big shrimp orders a day ahead**; O'Neal's is **closed Sundays**; bring a cooler.
 - 🚗 **No beach driving** in July (off-season only).
-- 🔑 **Check-in ~4–6 p.m.** — **no early check-in for 10-BR homes.** Download the **Happy Stays app** first (access code is in your booking email).
+- 🔑 **Check-in ~4–6 p.m.** — **no early check-in for a house this size.** Download the rental company's **guest app** first (access code is in your booking email).
 - 🚦 **You arrive AND depart on peak-traffic Saturdays.** Drive it with waypoints **`Staunton, VA` + `Columbia, NC`** — avoids DC *and* the Wright Memorial Bridge (Manteo does NOT work as a waypoint). Overnight **Williamsburg, VA**. Check **DriveNC.gov** + **511 Virginia** the morning of.
 
 ---
 
-*Not yet vetted here: a detailed dining plan (large-group/reservation policies and 2026 hours). Popular central spots people mention include Awful Arthur's, Miller's Seafood & Steakhouse, Mama Kwan's, Outer Banks Brewing Station (all KDH), and Basnight's Lone Cedar Café (soundfront). Confirm hours/big-party policies directly — happy to build a full dining + reservations section on request.*
 
 **Photo credits (Wikimedia Commons):** Wright Brothers Memorial; Jockey's Ridge State Park (Nags Head); Bodie Island Lighthouse (J. Tuszyński, CC BY-SA 3.0); Atlantic blue crab (CC BY-SA 4.0). Maps generated for this guide.
