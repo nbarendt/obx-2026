@@ -1,0 +1,109 @@
+name: Build & Publish Guide
+
+# Renders GUIDE.md into a mobile-friendly web page + a downloadable PDF,
+# then publishes both to GitHub Pages. Runs entirely on GitHub's servers —
+# no local machine needed.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'GUIDE.md'
+      - 'maps/**'
+      - 'site-assets/**'
+      - '.github/workflows/build.yml'
+  workflow_dispatch:   # lets you trigger a rebuild by hand from the Actions tab
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pandoc + emoji font
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq pandoc fonts-noto-color-emoji
+
+      - name: Assemble site
+        run: |
+          set -euo pipefail
+          mkdir -p site/maps
+
+          # Copy assets the page needs
+          cp maps/*.png site/maps/ 2>/dev/null || true
+
+          # Stamp the build time into a footer partial
+          BUILD_DATE="$(date -u '+%B %-d, %Y at %H:%M UTC')"
+          cat > /tmp/footer.html <<EOF
+          <footer>
+            <hr>
+            <p class="meta">
+              Last updated <strong>${BUILD_DATE}</strong> &middot;
+              <a href="OBX-Guide.pdf">Download the PDF</a> for offline use &mdash;
+              cell service on the Outer Banks is patchy.
+            </p>
+          </footer>
+          EOF
+
+          pandoc GUIDE.md \
+            --standalone \
+            --from=gfm \
+            --to=html5 \
+            --metadata title="Outer Banks Family Guide" \
+            --toc --toc-depth=2 \
+            --css=style.css \
+            --include-in-header=site-assets/head.html \
+            --include-after-body=/tmp/footer.html \
+            --output=site/index.html
+
+          cp site-assets/style.css site/style.css
+
+      - name: Render PDF (headless Chrome — handles emoji + images correctly)
+        run: |
+          set -eu
+          # ubuntu-latest normally ships with Chrome preinstalled. Fall back if not.
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || command -v chromium || true)"
+          if [ -z "$CHROME" ]; then
+            echo "Chrome not found on runner — installing…"
+            wget -q -O /tmp/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+            sudo apt-get install -y -qq /tmp/chrome.deb
+            CHROME="$(command -v google-chrome)"
+          fi
+          echo "Using: $CHROME"
+          "$CHROME" \
+            --headless \
+            --disable-gpu \
+            --no-sandbox \
+            --virtual-time-budget=20000 \
+            --run-all-compositor-stages-before-draw \
+            --print-to-pdf-no-header \
+            --print-to-pdf="$GITHUB_WORKSPACE/site/OBX-Guide.pdf" \
+            "file://$GITHUB_WORKSPACE/site/index.html"
+          ls -lh site/OBX-Guide.pdf
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
