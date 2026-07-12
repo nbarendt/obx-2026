@@ -1,13 +1,12 @@
-# Outer Banks Family Guide
 ### Kill Devil Hills, NC · Summer 2026 · Extended family (toddlers → grandparents)
 
 *Built from current 2026 sources. Hours, prices, and event dates can change — verify the time-sensitive items (aquarium tickets, restaurant large-group policies, the exact-week forecast) close to your trip.*
 
-> **About the visuals:** The two **maps** below are included as separate image files in this download (`map-1-obx-orientation.png` and `map-2-kdh-logistics.png`). The **photos** are hotlinked from **Wikimedia Commons** (freely licensed); if any doesn't load in your viewer, the caption links to its source. Every place name links to its official site and/or a Google Maps pin.
+> **About the visuals:** The **map** below is **interactive** — pan, zoom, and tap a pin for details. The **photos** are hotlinked from **Wikimedia Commons** (freely licensed); if any doesn't load in your viewer, the caption links to its source. Every place name links to its official site and/or a Google Maps pin.
 
-![Outer Banks orientation map showing the house at Milepost 8 and the key stops from Corolla down to Bodie Island](maps/map-1-obx-orientation.png)
+<div id="obx-map" class="leaflet-map"></div>
 
-*Orientation map — your house (★) and the main stops. Manteo (aquarium + Festival Park) sits to the west on Roanoke Island.*
+*Interactive orientation map — pan, zoom, and tap a pin for details. Our stretch of beach is the Ocean Bay Blvd access at Milepost 8.5; the other pins are the main stops from Corolla down to Bodie Island and Manteo.*
 
 ---
 
@@ -415,10 +414,6 @@ The **sound is warmer, calmer, and shallower** than the ocean — ideal for litt
 
 ## 13. Provisioning: groceries, Costco & ABC (liquor)
 
-![Central Kill Devil Hills logistics map: house, beach access, pier, ABC store, groceries, and crabbing spots](maps/map-2-kdh-logistics.png)
-
-*Central KDH logistics (approximate). Ocean to the east, sound to the west.*
-
 **Costco:** **None on the Outer Banks.** Nearest is the **[Norfolk / Chesapeake, VA](https://www.google.com/maps/search/?api=1&query=Costco+Chesapeake+VA)** area — ~**80 miles / ~1.5 hours** north. If your drive in passes Hampton Roads, that's the one realistic **stock-up-on-arrival** stop. *(I couldn't confirm a BJ's or any warehouse club actually on the islands — plan as if there isn't one.)*
 
 **Big-group grocery stock-up (on the beach):**
@@ -590,4 +585,4 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 ---
 
 
-**Photo credits (Wikimedia Commons):** Wright Brothers Memorial; Jockey's Ridge State Park (Nags Head); Bodie Island Lighthouse (J. Tuszyński, CC BY-SA 3.0); Atlantic blue crab (CC BY-SA 4.0). Maps generated for this guide.
+**Photo credits (Wikimedia Commons):** Wright Brothers Memorial; Jockey's Ridge State Park (Nags Head); Bodie Island Lighthouse (J. Tuszyński, CC BY-SA 3.0); Atlantic blue crab (CC BY-SA 4.0).
