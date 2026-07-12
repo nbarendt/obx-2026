@@ -6,7 +6,7 @@ Family travel guide — **Kill Devil Hills, Outer Banks, NC · July 2026.**
 > door codes, rental-company name, or guest-only discount codes belong in it.
 > See the privacy rule in `CLAUDE.md`.
 
-📖 **Read it here → `https://<YOUR-USERNAME>.github.io/obx-2026/`**
+📖 **Read it here → `https://nbarendt.github.io/obx-2026/`**
 *(This URL never changes. Share it with the family.)*
 A **PDF download** link sits at the bottom of the page — grab it before you go; OBX cell service is patchy.
 
@@ -50,7 +50,7 @@ GUIDE.md  ──push to main──►  GitHub Action
                                   └─ deploy  → GitHub Pages
                                                     │
                                                     ▼
-                                   https://<you>.github.io/obx-2026/
+                                   https://nbarendt.github.io/obx-2026/
 ```
 
 Chrome-headless is used for the PDF rather than LaTeX so that emoji, tables, and images all render
