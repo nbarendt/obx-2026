@@ -222,7 +222,41 @@ Check-in is **4–6 PM**, and **there's no early check-in for a house this size.
 
 ---
 
-## 4. Rental company: guest app, house logistics & guest perks
+## 4. Things to do along the way — bio breaks, lunch & leg-stretches
+
+*Options **on the chosen route only** — the I-70 → US-522 → I-81 → I-64 → US-17 → US-64 corridor (see *Getting there from Cleveland*). Nothing here is more than a few minutes off the highway unless flagged. **This is a menu, not a schedule** — stop where the crew needs to. Hours were checked against official sources in 2026 but shift seasonally; confirm the day-of, especially for anything you'd drive out of your way for.*
+
+> **⚠️ Skip Tamarack.** The **Tamarack Marketplace** (Beckley, WV) that road-trip lists love is on **I-77 — the route we rejected** — 2+ hours off ours. Don't let a search result pull you onto it.
+
+### Friday (the long day): I-70 into the Shenandoah Valley
+
+**Hancock, MD — right at the I-70 → US-522 turn.** The **[Western Maryland Rail Trail](https://www.canaltrust.org/discoveryarea/western-maryland-rail-trail/)** and the C&O Canal towpath meet the **Little Tonoloway** day-use area here: restrooms, picnic tables, and a flat paved path to walk out the stiffness. Clean and quick, at roughly the one-third mark of the drive. *(Longer break: **Berkeley Springs, WV** and its state-park warm springs are ~10–15 min south on US-522.)*
+
+**Winchester, VA (I-81, ~exit 313) — best lunch on the north half.** The **[Old Town Winchester Walking Mall](https://visitwinchesterva.com/locations/old-town-winchester/)** (Loudoun St pedestrian mall) is two traffic-free blocks of cafés and restaurants with four parking garages — easy to feed a big group and let kids move. Casual to sit-down, something for every eater.
+
+**New Market / Mount Jackson cluster (I-81, ~exits 264–273) — the fun-stop zone.** Three good options within a few miles:
+
+- **[Route 11 Potato Chips](https://www.rt11.com/viewing)** (Mount Jackson, exit 273) — free **fry-viewing** windows in the shop and endless samples; a genuinely fun ~15-minute kid stop. Mon–Sat 9–5, **closed Sundays. Call ahead — 540-477-9664 — to make sure they're cooking that day** (they don't fry every day); groups of 15+ should call regardless.
+- **[Shenandoah Caverns](https://shenandoahcaverns.com/visitor-info/)** (exit 269) — a 1-hour, one-mile guided cave tour at a steady 56°F, and **the only Virginia cavern with elevator access** (no stairs — good for grandparents and strollers). Summer 9–6 (last tour ~5). A proper way to break the day.
+- **[New Market Battlefield / VA Museum of the Civil War](https://www.vmi.edu/museums-and-archives/virginia-museum-of-the-civil-war/)** (exit 264) — Civil War museum plus walkable fields on a bluff over the valley. Open daily 9–5; **540-740-3101** (confirm — guided-tour availability varies).
+- *Bigger detour:* **[Luray Caverns](https://luraycaverns.com/plan/)** is the famous one, but it's ~25–30 min **east** off I-81 (via US-211) and pricier (~$36 adult, ~$18 kids 6–12, under 6 free). Worth it only if caverns are the point of the day, not a quick stop.
+
+**Staunton, VA (I-81, ~exit 222) — your waypoint, and a good late-day stretch.** You turn onto **I-64 East** here anyway. Walkable downtown with restaurants, plus the **[Frontier Culture Museum](https://frontiermuseum.org/)** — a large open-air living-history site with free on-property shuttles (9–5; ~$12 adult, $7 kids 6–12, under 6 free; **540-332-7850**). *(Harrisonburg, ~exit 245, also has an easy walkable downtown if lunch lands earlier.)*
+
+**Charlottesville, VA (I-64, ~35 min east of Staunton).** If lunch falls on the I-64 leg, the pedestrian **Downtown Mall** sits close to the interstate with plenty of food. (Monticello is here too, but it's a half-day, not a travel-day stop.)
+
+### Saturday (the short leg): US-17 through northeastern NC
+
+You'll cross the Monitor-Merrimac early and roll down US-17 South with **hours to spare before the 4–6 PM check-in** (see *Arrival & departure*). Two waterfront towns sit right on your road — better places to burn that time than idling near the house:
+
+- **Elizabeth City, NC (US-17) — [Museum of the Albemarle](https://www.museumofthealbemarle.com/plan-visit).** Free, Mon–Sat 10–4 (**closed Sundays and July 4**), on the Pasquotank riverfront across from Waterfront Park. A quick, free, air-conditioned leg-stretch with restrooms.
+- **Edenton, NC (US-17) — the pretty one.** A historic town on Albemarle Sound: **Colonial Waterfront Park** (playground + fishing pier for the kids), a walkable downtown of ~40 shops and restaurants, and the **[Edenton State Historic Site visitor center](https://visitedenton.com/explore-edenton/historic-sites-attractions/)** (Tue–Sat 9–5). The best lunch-and-stretch on the NC leg if you've got the time.
+
+**One Saturday caveat:** it's a peak beach-turnover day and the **Alligator River swing bridge** is still downstream of you (see *Arrival & departure*). A relaxed stop in Edenton is fine — but glance at **[DriveNC.gov](https://drivenc.gov/)** before you linger, so a bridge opening or jam doesn't turn a lunch break into a problem.
+
+---
+
+## 5. Rental company: guest app, house logistics & guest perks
 
 *Specifics — company name, phone, app access code, door code, and discount codes — are in the **welcome email / confirmation** everyone in the group received. They're deliberately not in this public guide.*
 
@@ -252,7 +286,7 @@ The rental company has partner discounts for its guests. **The codes are in your
 
 ---
 
-## 5. Weather & packing
+## 6. Weather & packing
 
 **Typical late July in Kill Devil Hills** (climate averages — *not* a forecast for your exact dates):
 - Highs generally **low-80s to low-90s °F**, lows **low-to-mid 70s**. Average high ~86°F.
@@ -266,7 +300,7 @@ The rental company has partner discounts for its guests. **The codes are in your
 
 ---
 
-## 6. Your beach (Milepost 8) — the specifics
+## 7. Your beach (Milepost 8) — the specifics
 
 You have a **private walkway** to the sand, so setup is easy. Specific to your stretch:
 
@@ -291,7 +325,7 @@ You have a **private walkway** to the sand, so setup is easy. Specific to your s
 
 ---
 
-## 7. Festivals & events — mid-to-late July
+## 8. Festivals & events — mid-to-late July
 
 Two Kitty Hawk Kites festivals fall in the second half of July ([full calendar](https://www.kittyhawk.com/events/)):
 
@@ -303,7 +337,7 @@ Two Kitty Hawk Kites festivals fall in the second half of July ([full calendar](
 
 ---
 
-## 8. Top sites & attractions
+## 9. Top sites & attractions
 
 Most are within a 20–45 minute drive of your MP 8 house.
 
@@ -327,7 +361,7 @@ Most are within a 20–45 minute drive of your MP 8 house.
 
 ---
 
-## 9. Dolphin tours & sound cruises
+## 10. Dolphin tours & sound cruises
 
 These three come recommended by the rental company. All are calm-water sound trips (not offshore), which makes them workable for grandparents and little kids alike. **Book ahead in July**, and expect morning trips to be calmer than afternoons.
 
@@ -339,7 +373,7 @@ These three come recommended by the rental company. All are calm-water sound tri
 
 ---
 
-## 10. Aquariums (great hot-day / rainy-day plan)
+## 11. Aquariums (great hot-day / rainy-day plan)
 
 **[North Carolina Aquarium on Roanoke Island](https://www.ncaquariums.com/roanoke-island)** · 374 Airport Rd, Manteo · [📍](https://www.google.com/maps/search/?api=1&query=NC+Aquarium+on+Roanoke+Island+Manteo) (~35–40 min from MP 8)
 - Open **daily 9 a.m.–5 p.m.**, **timed entry** — **[buy tickets online in advance](https://www.ncaquariums.com/tickets-roanoke)**; slots **sell out** in summer (last entry ~4:30 p.m.).
@@ -350,7 +384,7 @@ These three come recommended by the rental company. All are calm-water sound tri
 
 ---
 
-## 11. Art & hands-on studios
+## 12. Art & hands-on studios
 
 **Galleries (for the adults):**
 - **[Seaside Art Gallery](https://www.google.com/maps/search/?api=1&query=Seaside+Art+Gallery+Nags+Head)** — 2716 S Virginia Dare Trail, Nags Head. Since 1969; ~12 rooms, 2,000+ works incl. master prints and **animation art**.
@@ -368,7 +402,7 @@ These three come recommended by the rental company. All are calm-water sound tri
 
 ---
 
-## 12. Fishing & crabbing (pier, surf, and family sound crabbing)
+## 13. Fishing & crabbing (pier, surf, and family sound crabbing)
 
 ![An Atlantic blue crab, the main catch for family crabbing on the sound](https://commons.wikimedia.org/wiki/Special:FilePath/Granchio%20blu%20%28Callinectes%20sapidus%29.jpg?width=900)
 
@@ -412,7 +446,7 @@ The **sound is warmer, calmer, and shallower** than the ocean — ideal for litt
 
 ---
 
-## 13. Provisioning: groceries, Costco & ABC (liquor)
+## 14. Provisioning: groceries, Costco & ABC (liquor)
 
 **Costco:** **None on the Outer Banks.** Nearest is the **[Norfolk / Chesapeake, VA](https://www.google.com/maps/search/?api=1&query=Costco+Chesapeake+VA)** area — ~**80 miles / ~1.5 hours** north. If your drive in passes Hampton Roads, that's the one realistic **stock-up-on-arrival** stop. *(I couldn't confirm a BJ's or any warehouse club actually on the islands — plan as if there isn't one.)*
 
@@ -429,7 +463,7 @@ The **sound is warmer, calmer, and shallower** than the ocean — ideal for litt
 
 ---
 
-## 14. Dining & reservations
+## 15. Dining & reservations
 
 With a big house and multiple kitchens, your best "big night" moves are often **at the house** — no wait, everyone together, and the grandparents aren't chasing toddlers around a packed dining room. **Peak-summer reality:** many OBX spots take few or no reservations and cap large parties, so call ahead a day or two for **8+**, aim for early (5:00–5:30) seatings, or split into two tables.
 
@@ -467,7 +501,7 @@ With a big house and multiple kitchens, your best "big night" moves are often **
 
 ---
 
-## 15. Seafood cookout night — buying direct from the docks
+## 16. Seafood cookout night — buying direct from the docks
 
 If you want seafood that was **swimming that morning**, skip the grocery counter and go to a **fish house** — the place where commercial boats unload and the catch is cleaned and packed. On the OBX, that means **Wanchese**, the working fishing village at the south end of Roanoke Island. It doesn't court tourists; it's boatbuilders, fish houses, and packing docks. Buying there is about as close to off-the-boat as a visitor can get.
 
@@ -522,7 +556,7 @@ Ask what came in *that morning* — but broadly, mid-to-late summer means:
 
 ---
 
-## 16. Rainy-day / too-hot backup plan
+## 17. Rainy-day / too-hot backup plan
 
 1. **[NC Aquarium](https://www.ncaquariums.com/roanoke-island)** (book a timed ticket that morning).
 2. **[Wright Brothers Memorial](https://www.nps.gov/wrbr/)** museum (indoor exhibits + film).
@@ -534,7 +568,7 @@ Ask what came in *that morning* — but broadly, mid-to-late summer means:
 
 ---
 
-## 17. Bikes — yes, bring them
+## 18. Bikes — yes, bring them
 
 The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-use path network** ideal for mixed abilities:
 - **Nags Head** has an ~**11-mile paved beach-road path** (quieter/scenic) plus a bypass path, connectable at stoplights.
@@ -544,7 +578,7 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 
 ---
 
-## 18. Quick reference & links
+## 19. Quick reference & links
 
 **Official sites**
 - Town of KDH — Beach / Ocean Rescue / Soundside: https://www.kdhnc.com/997/Beach · https://www.kdhnc.com/946/Ocean-Rescue · https://www.kdhnc.com/1003/Soundside-Accesses
