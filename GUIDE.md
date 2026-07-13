@@ -325,7 +325,26 @@ You have a **private walkway** to the sand, so setup is easy. Specific to your s
 
 ---
 
-## 8. Festivals & events — mid-to-late July
+## 8. Emergency & urgent care
+
+*Public info, verified 2026 — but **call to confirm hours**, which shift seasonally. In any life-threatening emergency, **dial 911 first** (see also the rip-current guidance under *Your beach*).*
+
+**🚑 Hospital — the only 24/7 ER on the Outer Banks:**
+**[Outer Banks Health Hospital](https://www.outerbankshealth.org/emergency/)** (formerly *The Outer Banks Hospital*) — 4800 S. Croatan Hwy, Nags Head, ~15–20 min south of the house · [📍](https://www.google.com/maps/search/?api=1&query=Outer+Banks+Health+Hospital+Nags+Head) · **ER 252-449-4500** (toll-free 877-359-9179). Full 24-hour emergency department. Serious trauma is stabilized here and transferred or airlifted to larger mainland centers.
+
+**🩹 Walk-in / urgent care — for the non-emergencies** (sprains, stitches, ear infections, bad sunburn, jellyfish stings):
+
+- **[Surf Urgent Care](https://www.google.com/maps/search/?api=1&query=Surf+Urgent+Care+Kill+Devil+Hills)** — 400 S. Croatan Hwy, Kill Devil Hills (**closest to the house**) · **252-441-7870** · Mon–Fri 8 a.m.–8 p.m., Sat–Sun 7 a.m.–1 p.m. (open some holidays — call ahead).
+- **[Outer Banks Health Urgent Care Center](https://www.outerbankshealth.org/services/urgent-care/)** — 5002 S. Croatan Hwy, Suite A, Nags Head · **252-261-8040** · Mon–Fri ~8 a.m.–7 p.m. (confirm weekend hours). X-ray and lab on-site.
+
+**🏥 Nearest mainland hospital (~1 hr inland, on the US-17 route in/out):**
+**[Sentara Albemarle Medical Center](https://www.sentara.com/hospitalslocations/sentara-albemarle-medical-center)** — 3050 Halstead Blvd Ext, Elizabeth City, NC · [📍](https://www.google.com/maps/search/?api=1&query=Sentara+Albemarle+Medical+Center+Elizabeth+City+NC) · **ER 252-690-4590** (main 252-690-4000) · 24 hours. Mostly relevant if something happens on the drive.
+
+**Worth having on hand:** everyone's insurance cards, a shared note of meds/allergies, and a stocked first-aid kit at the house (July's specialties: sunburn, jellyfish, and stubbed toes on the stairs). **Poison Control: 1-800-222-1222.**
+
+---
+
+## 9. Festivals & events — mid-to-late July
 
 Two Kitty Hawk Kites festivals fall in the second half of July ([full calendar](https://www.kittyhawk.com/events/)):
 
@@ -337,7 +356,32 @@ Two Kitty Hawk Kites festivals fall in the second half of July ([full calendar](
 
 ---
 
-## 9. Top sites & attractions
+## 10. Stargazing & the night sky
+
+*The Outer Banks gets genuinely dark once you're away from the Beach Road lights, and summer is Milky-Way season. The astronomy below is public 2026 fact — map the dates to your own nights, skies permitting (check the forecast under *Weather & packing*).*
+
+**Where to look:** your own beach works if you face **east over the ocean**, away from town glow. For darker skies, drive ~15–20 min **south into Cape Hatteras National Seashore** — the **[Coquina Beach / Bodie Island](https://www.google.com/maps/search/?api=1&query=Coquina+Beach+Bodie+Island+NC)** area has almost no lighting, and it only gets darker farther down Hatteras. Give your eyes ~20 minutes to adjust and use a **red flashlight** (it preserves night vision — and keep beach-facing lights low for nesting sea turtles; see *Your beach*).
+
+**The Moon sets the schedule (July 2026):** New Moon **July 14**, First Quarter **July 21**, Full "Buck" Moon **July 29**. **Darkest, best skies are the nights around the new moon (mid-July) and again as the full moon wanes into early August.** Near July 29 the moonlight washes out faint objects — a great night to look *at* the Moon (binoculars show the craters), not for the Milky Way.
+
+**Planets:**
+- **Venus** — brilliant, low in the **west just after sunset.** The can't-miss target for kids.
+- **Saturn** — rises late evening and stands **high in the south before dawn** by late July (its best showing of the month); a small scope shows the rings.
+- **Mars** — reddish and **low in the east before dawn.**
+- *(Jupiter sinks into the sunset glow and is gone by late July.)*
+
+**Constellations & the Milky Way (mid-northern summer sky):**
+- The **Summer Triangle** rides high overhead after dark — three bright stars: **Vega** (in Lyra), **Deneb** (in Cygnus, the Swan / "Northern Cross"), and **Altair** (in Aquila).
+- Low in the **south**, red **Antares** anchors **Scorpius**; just to its left, the **"Teapot" of Sagittarius** points straight at the **bright core of the Milky Way** — from a dark beach you can trace the hazy band arching up from the southern horizon around 10–11 p.m.
+- In the north-west evening, the **Big Dipper** points down to **Polaris**, the North Star; high in the west, follow the Dipper's handle to orange **Arcturus** ("arc to Arcturus").
+
+**Meteor showers (temper expectations for 2026):** the **Southern Delta Aquariids** (peak ~**July 30**) and **Alpha Capricornids** (peak ~**July 30–31**, known for the odd bright fireball) are both active in late July — but their 2026 peak falls right after the **July 29 full moon**, so moonlight will drown out all but the brightest. Look **pre-dawn toward the south**, and you'll do better on the **darker nights earlier in the window.** (The famous Perseids don't peak until **Aug 12**, after most July trips.)
+
+**Kid-friendly:** a free phone app (Stellarium, SkyView) that labels stars as you point it turns "which one is that?" into the whole activity — grandparents included.
+
+---
+
+## 11. Top sites & attractions
 
 Most are within a 20–45 minute drive of your MP 8 house.
 
@@ -361,7 +405,7 @@ Most are within a 20–45 minute drive of your MP 8 house.
 
 ---
 
-## 10. Dolphin tours & sound cruises
+## 12. Dolphin tours & sound cruises
 
 These three come recommended by the rental company. All are calm-water sound trips (not offshore), which makes them workable for grandparents and little kids alike. **Book ahead in July**, and expect morning trips to be calmer than afternoons.
 
@@ -373,7 +417,7 @@ These three come recommended by the rental company. All are calm-water sound tri
 
 ---
 
-## 11. Aquariums (great hot-day / rainy-day plan)
+## 13. Aquariums (great hot-day / rainy-day plan)
 
 **[North Carolina Aquarium on Roanoke Island](https://www.ncaquariums.com/roanoke-island)** · 374 Airport Rd, Manteo · [📍](https://www.google.com/maps/search/?api=1&query=NC+Aquarium+on+Roanoke+Island+Manteo) (~35–40 min from MP 8)
 - Open **daily 9 a.m.–5 p.m.**, **timed entry** — **[buy tickets online in advance](https://www.ncaquariums.com/tickets-roanoke)**; slots **sell out** in summer (last entry ~4:30 p.m.).
@@ -384,7 +428,7 @@ These three come recommended by the rental company. All are calm-water sound tri
 
 ---
 
-## 12. Art & hands-on studios
+## 14. Art & hands-on studios
 
 **Galleries (for the adults):**
 - **[Seaside Art Gallery](https://www.google.com/maps/search/?api=1&query=Seaside+Art+Gallery+Nags+Head)** — 2716 S Virginia Dare Trail, Nags Head. Since 1969; ~12 rooms, 2,000+ works incl. master prints and **animation art**.
@@ -402,7 +446,7 @@ These three come recommended by the rental company. All are calm-water sound tri
 
 ---
 
-## 13. Fishing & crabbing (pier, surf, and family sound crabbing)
+## 15. Fishing & crabbing (pier, surf, and family sound crabbing)
 
 ![An Atlantic blue crab, the main catch for family crabbing on the sound](https://commons.wikimedia.org/wiki/Special:FilePath/Granchio%20blu%20%28Callinectes%20sapidus%29.jpg?width=900)
 
@@ -446,7 +490,7 @@ The **sound is warmer, calmer, and shallower** than the ocean — ideal for litt
 
 ---
 
-## 14. Provisioning: groceries, Costco & ABC (liquor)
+## 16. Provisioning: groceries, Costco & ABC (liquor)
 
 **Costco:** **None on the Outer Banks.** Nearest is the **[Norfolk / Chesapeake, VA](https://www.google.com/maps/search/?api=1&query=Costco+Chesapeake+VA)** area — ~**80 miles / ~1.5 hours** north. If your drive in passes Hampton Roads, that's the one realistic **stock-up-on-arrival** stop. *(I couldn't confirm a BJ's or any warehouse club actually on the islands — plan as if there isn't one.)*
 
@@ -463,7 +507,7 @@ The **sound is warmer, calmer, and shallower** than the ocean — ideal for litt
 
 ---
 
-## 15. Dining & reservations
+## 17. Dining & reservations
 
 With a big house and multiple kitchens, your best "big night" moves are often **at the house** — no wait, everyone together, and the grandparents aren't chasing toddlers around a packed dining room. **Peak-summer reality:** many OBX spots take few or no reservations and cap large parties, so call ahead a day or two for **8+**, aim for early (5:00–5:30) seatings, or split into two tables.
 
@@ -501,7 +545,7 @@ With a big house and multiple kitchens, your best "big night" moves are often **
 
 ---
 
-## 16. Seafood cookout night — buying direct from the docks
+## 18. Seafood cookout night — buying direct from the docks
 
 If you want seafood that was **swimming that morning**, skip the grocery counter and go to a **fish house** — the place where commercial boats unload and the catch is cleaned and packed. On the OBX, that means **Wanchese**, the working fishing village at the south end of Roanoke Island. It doesn't court tourists; it's boatbuilders, fish houses, and packing docks. Buying there is about as close to off-the-boat as a visitor can get.
 
@@ -556,7 +600,7 @@ Ask what came in *that morning* — but broadly, mid-to-late summer means:
 
 ---
 
-## 17. Rainy-day / too-hot backup plan
+## 19. Rainy-day / too-hot backup plan
 
 1. **[NC Aquarium](https://www.ncaquariums.com/roanoke-island)** (book a timed ticket that morning).
 2. **[Wright Brothers Memorial](https://www.nps.gov/wrbr/)** museum (indoor exhibits + film).
@@ -568,7 +612,7 @@ Ask what came in *that morning* — but broadly, mid-to-late summer means:
 
 ---
 
-## 18. Bikes — yes, bring them
+## 20. Bikes — yes, bring them
 
 The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-use path network** ideal for mixed abilities:
 - **Nags Head** has an ~**11-mile paved beach-road path** (quieter/scenic) plus a bypass path, connectable at stoplights.
@@ -578,7 +622,7 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 
 ---
 
-## 19. Quick reference & links
+## 21. Quick reference & links
 
 **Official sites**
 - Town of KDH — Beach / Ocean Rescue / Soundside: https://www.kdhnc.com/997/Beach · https://www.kdhnc.com/946/Ocean-Rescue · https://www.kdhnc.com/1003/Soundside-Accesses
@@ -602,6 +646,7 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 
 **Handy numbers**
 - Emergency: **911** · KDH Ocean Rescue / beach wheelchairs: **252-480-0080** · KDH Fire (bonfire/tent permits): **252-480-4060**
+- **Medical** (see *Emergency & urgent care*): Outer Banks Health ER, Nags Head, 24/7 **252-449-4500** · Surf Urgent Care (KDH) **252-441-7870** · OBH Urgent Care (Nags Head) **252-261-8040** · Poison Control **1-800-222-1222**
 - KDH ABC: **252-449-8229** · Nags Head ABC: **252-441-5121** · NC Aquarium: **252-475-2300**
 - **Seafood markets:** Billy's Seafood (KDH) **252-441-5978** · O'Neal's Sea Harvest (Wanchese) **252-473-4535** · Fresh Catch Seafood (Wanchese) **252-475-9888** · Whalebone Seafood (Nags Head) **252-441-8808** · Austin Fish Co. (Nags Head) **252-441-7412** · Greentails (Nags Head) **252-715-6300**
 
