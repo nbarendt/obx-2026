@@ -622,7 +622,30 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 
 ---
 
-## 21. Quick reference & links
+## 21. Bluetooth speakers — pairing the Beats Pills
+
+*We brought two **Beats Pill** speakers. Here's the quick version so anyone can get music going at the house or on the beach.*
+
+**Turn on & pair to a phone:**
+1. Hold the **power button ~3 seconds** to turn the Pill on.
+2. Press and hold the power button again until the light **flashes white** — that's pairing mode. It shows up as **"Beats Pill"** in Bluetooth.
+   - **iPhone:** hold the Pill near the unlocked phone — a card pops up, tap **Connect.** (Or **Settings → Bluetooth →** tap it.)
+   - **Android:** install the **Beats app** for the same pop-up card, or just **Settings → Bluetooth →** tap **"Beats Pill."**
+
+**Link the two Pills together (louder — or stereo):**
+- With one Pill already connected to a phone, turn the second one on. Press and hold the **center button on both** for **~5 seconds** until **both lights turn blue** — that's **Amplify mode**, both speakers playing the same thing, twice as loud.
+- Want true **left/right stereo** instead? Once they're linked, press and hold **center + volume-up** on either Pill to toggle between **Amplify** and **Stereo** mode (Stereo = one speaker plays the left channel, the other the right — nice at the house; set them a few feet apart).
+
+**Hand off to a different phone:**
+- Disconnect on the current phone (or turn its Bluetooth off), put the Pill back in **pairing mode** (hold power until it flashes white), and connect from the new phone. **The link between the two Pills survives the swap** — you don't have to re-pair them to each other.
+
+**On the beach:** sound carries a long way over open sand, so keep it neighborly — and the **gear-off-the-beach-by-~7 p.m.** rule applies to the speaker too (see *Your beach*). The Pills are rated **water-resistant**, not water-proof: fine for splashes and spray, but keep them out of the surf and off the wet sand.
+
+*(Two-speaker steps confirmed against [Apple's Beats Pill support](https://support.apple.com/en-us/102085).)*
+
+---
+
+## 22. Quick reference & links
 
 **Official sites**
 - Town of KDH — Beach / Ocean Rescue / Soundside: https://www.kdhnc.com/997/Beach · https://www.kdhnc.com/946/Ocean-Rescue · https://www.kdhnc.com/1003/Soundside-Accesses
