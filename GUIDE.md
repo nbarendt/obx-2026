@@ -656,7 +656,62 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 
 ---
 
-## 22. Quick reference & links
+## 22. Heading home — the one-day drive back
+
+*The drive home is the trip down in reverse — with two things flipped: you're **leaving** (not arriving), and the traffic that matters now runs the other way. Built to be usable **Saturday morning**: below are the forks, a default for each, and the "flip it if…" rule, plus the live sources to check before you commit. **Leave early** — the single biggest lever you have.*
+
+### 🔀 Fork 1 — which way off the island? (the key call)
+
+**➡️ Default: NORTH, over the Wright Memorial Bridge (US-158).** On the way *in*, we avoid this bridge because the summer jam is the *incoming* direction. Leaving on a Saturday morning you're on the empty side of that — the bridge is only a problem if you hit the **noon–4 p.m. checkout wave**, so **cross before ~10 a.m. (earlier is better).** It also keeps you on higher-capacity, better-draining roads (US-158 → VA-168 "Chesapeake Expressway" → I-64) and **off the flood-prone US-64 low country.**
+
+**↩️ Alternative: WEST across Roanoke Island / US-64** (the inbound route reversed). The inbound reason for this route — dodging the incoming bridge jam — **doesn't help you when leaving.** And its weak points are exactly what heavy rain exposes: two-lane, 55 mph, low-lying Tyrrell/Washington-county roads (NC-94 / NC-37 / Scuppernong) plus the aging **Alligator River swing bridge.** In a wet week this is the **higher-risk** choice.
+
+> **Decision rule:** default **north over the bridge.** Only flip to US-64 if **[DriveNC.gov](https://drivenc.gov/)** shows the bridge or VA-168 corridor jammed/closed **and** US-64 + the Alligator River bridge showing clear.
+
+### 🌉 Crossing Hampton Roads
+
+Same as the way down: **Monitor-Merrimac Bridge-Tunnel (I-664)** is the pick — VDOT still steers Outer Banks traffic here to avoid the **HRBT (I-64) construction** (running into 2027). Saturday-morning westbound the MMMBT general lanes are open (only the *express* lanes close overnight). **Backup: James River Bridge** (US-17/258) if both tunnels snarl. Watch the electronic HRBT-vs-MMMBT travel-time signs and pick live.
+
+### 🔀 Fork 2 — at Richmond: DC or the Valley? (same decision point as the drive down, reversed)
+
+**⚡ I-95 through DC — the shortest on paper (~11 hrs driving).** Saturday DC is lighter than a weekday, but the I-95 Fredericksburg–DC stretch is still the wildcard, and beach-return traffic shares it.
+
+**🏔️ I-64 → I-81 Valley (via Staunton) — ~30–45 min longer, no DC, weather-steady and bankable.** Reconnects to I-70 at Hancock, MD, then the PA/OH turnpikes home. This is the reverse of our recommended inbound route.
+
+> **Decision rule:** at Richmond, check **Google Maps** (set your live/typical departure) comparing the two. **Green through DC → take the shortcut.** Any red, or you just want predictability → **take the Valley.** For "fastest total time" the DC line wins *when it's clear*; the Valley wins on *reliability*, which usually matters more on a one-day push.
+
+### ⏱️ The one-day math (this car: 3 adults + a teen, efficient)
+
+Pure driving is roughly **~11 hrs (DC line) to ~11½ hrs (Valley)** — shorter than the drive down, because leaving north skips the US-64 loop. With lean stops (~1.5–2 hrs of fuel/food/bathroom), that's **~12.5–13.5 hrs door-to-door** → leaving **8–9 a.m., home ~9–11 p.m.** Very doable for this crew. Gas up and grab breakfast supplies **Friday night** so Saturday is just rolling.
+
+### ⛈️ Current-conditions note — the wet stretch (snapshot, ~July 22–25, 2026)
+
+A stalled front parked over eastern NC put the Outer Banks under a **Flood Watch (Wed night July 22 → Fri morning July 24)** with **4–6"+** localized rain. Per the Weather Prediction Center the front finally pushes **offshore Saturday night — Saturday is the last day heavy rain threatens the coast**, and the excessive-rain risk sits **southwest over the Tennessee Valley,** *off* your homeward line. *Inference (not a promise): conditions should improve as you head inland and northwest — the Ohio end looks cooler and drier.* Three takeaways for a Saturday getaway:
+1. It **reinforces Fork 1 — go north over the bridge,** away from the saturated US-64 low country.
+2. **Expect standing water / ponding** on low spots and shoulders early, even where it isn't actively raining — slow down and don't trust puddled lanes.
+3. **Pop-up storms can still fire** along the route; if you hit a downpour that kills visibility, ease off — you have the daylight cushion.
+
+*(If you're reading this on a future trip: ignore this dated box and use the live sources below.)*
+
+### 📡 Check these Saturday morning — your decision tools
+
+- **[DriveNC.gov](https://drivenc.gov/)** — NC: the Wright Memorial & Alligator River bridges, US-158, US-64, flooding, closures, **cameras.** *The authoritative first check for Fork 1.*
+- **[511 Virginia](https://www.511virginia.org/)** / VDOT 511 app — VA: HRBT vs. MMMBT, I-64, I-81, any James River Bridge opening.
+- **Google Maps, live + typical-traffic** — compare **bridge vs. US-64** off the island, and **DC vs. Valley** at Richmond. Re-run it as you go.
+- **[NWS forecast](https://forecast.weather.gov/MapClick.php?lat=36.0032&lon=-75.6655)** + radar, and the **[OBX webcams](https://www.outerbanks.org/webcams/)** for eyes on real conditions.
+- **Ohio home stretch:** **OHGO** (ohgo.com) for I-70/I-71/I-77 conditions near Cleveland.
+
+### ✅ Bottom line
+
+1. **Leave 8-ish**, ahead of the noon–4 checkout wave.
+2. **North over the Wright Memorial Bridge** — unless DriveNC says the bridge corridor is blocked and US-64 is clear.
+3. **Monitor-Merrimac (I-664)** across Hampton Roads; James River Bridge as backup.
+4. **Decide DC vs. Valley at Richmond** off live traffic — default the **Valley** for reliability, take **DC** only if it's clearly clear.
+5. **One day is realistic** for this crew; keep an overnight (**Williamsburg / Richmond**) in your back pocket only if storms genuinely tank visibility.
+
+---
+
+## 23. Quick reference & links
 
 **Official sites**
 - Town of KDH — Beach / Ocean Rescue / Soundside: https://www.kdhnc.com/997/Beach · https://www.kdhnc.com/946/Ocean-Rescue · https://www.kdhnc.com/1003/Soundside-Accesses
@@ -693,7 +748,8 @@ The rack is worth it. KDH and Nags Head have an **extensive, flat, paved multi-u
 - 🦞 **Pre-order crabs/big shrimp orders a day ahead**; O'Neal's is **closed Sundays**; bring a cooler.
 - 🚗 **No beach driving** in July (off-season only).
 - 🔑 **Check-in ~4–6 p.m.** — **no early check-in for a house this size.** Download the rental company's **guest app** first (access code is in your booking email).
-- 🚦 **You arrive AND depart on peak-traffic Saturdays.** Drive it with waypoints **`Staunton, VA` + `Columbia, NC`** — avoids DC *and* the Wright Memorial Bridge (Manteo does NOT work as a waypoint). Overnight **Williamsburg, VA**. Check **DriveNC.gov** + **511 Virginia** the morning of.
+- 🚦 **Getting *in* (Saturday):** drive it with waypoints **`Staunton, VA` + `Columbia, NC`** — avoids DC *and* the Wright Memorial Bridge (Manteo does NOT work as a waypoint). Overnight **Williamsburg, VA**. Check **DriveNC.gov** + **511 Virginia** the morning of.
+- 🏠 **Heading *home* (Saturday):** the logic flips — **leave by ~8, exit NORTH over the Wright Memorial Bridge** (not US-64), then decide **DC vs. the Valley at Richmond** off live traffic. Full decision forks in *Heading home*.
 
 ---
 
